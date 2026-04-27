@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋 I'm Kacper 
 
-<!--
-**kacperkruszelnicki/kacperkruszelnicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Automation Systems student  
+🎮 Game developer  
+📱 Mobile app developer  
 
-Here are some ideas to get you started:
+## Tech
+C# • C++ • Java • Kotlin • Python • Unity • Godot • Unreal Engine • Android  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Game: Gravity Jump, Checkers
+- Neuron: Neurosniper, Neurohorror
+- App: PlantApp
