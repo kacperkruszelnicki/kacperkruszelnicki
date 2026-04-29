@@ -5,7 +5,7 @@
 📱 Mobile app developer  
 
 ## Tech
-C# • C++ • Java • Kotlin • Python • Unity • Godot • Unreal Engine • Android  
+C# • C++ • Java • Kotlin • Python • Unity • Godot • Unreal Engine • Android • Linux  
 
 ## Projects
 - Game: Gravity Jump, Checkers
